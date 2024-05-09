@@ -1,21 +1,21 @@
 [
   {
-    "nivel_id": "1",
+    "nivel_id": "preescolar",
     "nombre": "Preescolar",
     "imagen": "/assets/img/preescolar.png"
   },
   {
-    "nivel_id": "2",
+    "nivel_id": "primaria",
     "nombre": "Primaria",
     "imagen": "/assets/img/primaria.png"
   },
   {
-    "nivel_id": "3",
+    "nivel_id": "secundaria",
     "nombre": "Secundaria",
     "imagen": "/assets/img/secundaria.png"
   },
   {
-    "nivel_id": "4",
+    "nivel_id": "bachillerato",
     "nombre": "Bachillerato",
     "imagen": "/assets/img/bachillerato.png"
   }
