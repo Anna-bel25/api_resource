@@ -3,48 +3,56 @@
     "recurso_det_id": 1,
     "titulo": "Vincent van Gogh | Biografía en cuento para niños | Shackleton Kids",
     "url": "https://www.youtube.com/embed/svNjf3KEPRs?si=aJTt8Xad2nzkd9DL",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 4
   },
   {
     "recurso_det_id": 2,
     "titulo": "HISTORIA DEL ARTE EN 10 MINUTOS (Y ALGO MÁS)",
     "url": "https://www.youtube.com/embed/rUHxLrZwSIY?si=m5bJ8OASanaUXNbm",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 4
   },
   {
     "recurso_det_id": 3,
     "titulo": "Arte para niños (IV)",
     "url": "https://www.youtube.com/embed/ZsL8JfrNPUw?si=-7-Jrfi8IUAMA4LK",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 4
   },
   {
     "recurso_det_id": 4,
     "titulo": "Clase de arte para niños y niñas. Dibujos con movimiento.",
     "url": "https://www.youtube.com/embed/zS3pMhD3KZk?si=7RwbqHYGla-jaqso",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 4
   },
   {
     "recurso_det_id": 5,
     "titulo": "Vincent van Gogh | Biografía en cuento para niños | Shackleton Kids",
     "url": "https://www.youtube.com/embed/svNjf3KEPRs?si=aJTt8Xad2nzkd9DL",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 11
   },
   {
     "recurso_det_id": 6,
     "titulo": "HISTORIA DEL ARTE EN 10 MINUTOS (Y ALGO MÁS)",
     "url": "https://www.youtube.com/embed/rUHxLrZwSIY?si=m5bJ8OASanaUXNbm",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 11
   },
   {
     "recurso_det_id": 7,
     "titulo": "Arte para niños (IV)",
     "url": "https://www.youtube.com/embed/ZsL8JfrNPUw?si=-7-Jrfi8IUAMA4LK",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 11
   },
   {
     "recurso_det_id": 8,
     "titulo": "Clase de arte para niños y niñas. Dibujos con movimiento.",
     "url": "https://www.youtube.com/embed/zS3pMhD3KZk?si=7RwbqHYGla-jaqso",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 11
   }
 ]
