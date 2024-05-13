@@ -32,7 +32,7 @@
     "imagen": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bmklQzMlQjFvcyUyMHBpbnRhbmRvfGVufDB8fDB8fHww",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Arte y Creatividad en preescolar tiene como objetivo estimular la imaginación, la expresión artística y la creatividad de los niños a través de diversas actividades plásticas, musicales y de expresión corporal. Se fomenta el desarrollo de habilidades manuales, la apreciación estética y la exploración de diferentes materiales y técnicas artísticas.",
+    "descripcion": "El curso de Arte y Creatividad en preescolar tiene como objetivo estimular la imaginación, la expresión artística y la creatividad de los niños a través de diversas actividades plásticas, musicales y de expresión corporal. Se fomenta el desarrollo de habilidades manuales.",
     "nivel_id": 1
   },
   {
@@ -149,7 +149,7 @@
     "imagen": "https://images.unsplash.com/photo-1588912914017-923900a34710?q=80&w=1838&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Inglés en la secundaria tiene como objetivo desarrollar las habilidades de comprensión y expresión en el idioma inglés. Se trabajan las áreas de gramática, vocabulario, lectura, escritura y conversación, con el fin de comunicarse de manera efectiva en situaciones cotidianas y académicas.",
+    "descripcion": "El curso de Inglés en la secundaria tiene como objetivo desarrollar las habilidades de comprensión y expresión en el idioma inglés. Se trabajan las áreas de gramática, vocabulario, lectura, escritura y conversación.",
     "nivel_id": 3
   },
   {
@@ -167,7 +167,7 @@
     "imagen": "https://plus.unsplash.com/premium_photo-1702088072189-ee8e317d2e01?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZWR1Y2FjaSVDMyVCM24lMjBjdWx0dXJhbCUyMHklMjBhcnQlQzMlQURzdGljYXxlbnwwfHwwfHx8MA%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Educación Cultural y Artística en la secundaria tiene como objetivo fomentar la apreciación y expresión artística de los estudiantes. Se exploran diversas manifestaciones culturales como música, danza, teatro, artes visuales y literatura, promoviendo la creatividad y el desarrollo integral.",
+    "descripcion": "El curso de Educación Cultural y Artística en la secundaria tiene como objetivo fomentar la apreciación y expresión artística de los estudiantes. Se exploran diversas manifestaciones culturales como música, teatro, artes visuales y literatura, promoviendo la creatividad y el desarrollo integral.",
     "nivel_id": 3
   },
   {
@@ -176,7 +176,7 @@
     "imagen": "https://images.unsplash.com/photo-1524758870432-af57e54afa26?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29uYXMlMjBjb252ZXJzYW5kb3xlbnwwfHwwfHx8Mg%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Lenguaje y Comunicación en bachillerato busca desarrollar las habilidades lingüísticas y comunicativas de los estudiantes, haciendo hincapié en la comprensión y producción de textos orales y escritos. Se enfoca en el análisis crítico, la argumentación y la expresión adecuada en diversos contextos comunicativos.",
+    "descripcion": "El curso de Lenguaje y Comunicación en bachillerato busca desarrollar las habilidades lingüísticas y comunicativas de los estudiantes, haciendo hincapié en la comprensión y producción de textos orales y escritos. Se enfoca en el análisis crítico.",
     "nivel_id": 4
   },
   {
@@ -185,7 +185,7 @@
     "imagen": "https://images.unsplash.com/photo-1632571401005-458e9d244591?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Matemática Superior en bachillerato tiene como objetivo profundizar en los conceptos y técnicas matemáticas avanzadas, preparando a los estudiantes para su aplicación en áreas como la física, la ingeniería, la economía y otras ciencias exactas. Se abordan temas como cálculo diferencial e integral, álgebra lineal y geometría analítica.",
+    "descripcion": "El curso de Matemática Superior en bachillerato tiene como objetivo profundizar en los conceptos y técnicas matemáticas avanzadas, preparando a los estudiantes para su aplicación en áreas como la física, la ingeniería, la economía y otras ciencias exactas.",
     "nivel_id": 4
   },
   {
@@ -194,7 +194,7 @@
     "imagen": "https://plus.unsplash.com/premium_photo-1661963996750-24c93354eecc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGlzdG9yaWF8ZW58MHx8MHx8fDA%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Historia en bachillerato proporciona una comprensión profunda de los eventos, procesos y movimientos históricos que han moldeado el mundo actual. Se analizan diferentes épocas y civilizaciones, destacando sus contribuciones, conflictos y repercusiones en la sociedad contemporánea.",
+    "descripcion": "El curso de Historia en bachillerato proporciona una comprensión profunda de los eventos, procesos y movimientos históricos que han moldeado el mundo actual. Se analizan diferentes épocas y civilizaciones, conflictos y repercusiones en la sociedad contemporánea.",
     "nivel_id": 4
   },
   {
@@ -212,7 +212,7 @@
     "imagen": "https://images.unsplash.com/photo-1509443513700-bdc1caaf67e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGVtcHJlbmRpbWllbnRvfGVufDB8fDB8fHww",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Emprendimiento en bachillerato promueve el desarrollo de habilidades empresariales y de liderazgo, así como la comprensión del proceso emprendedor y la gestión de proyectos. Se abordan temas como la planificación estratégica, el marketing, la financiación y la innovación, preparando a los estudiantes para enfrentar los desafíos del mundo empresarial.",
+    "descripcion": "El curso de Emprendimiento en bachillerato promueve el desarrollo de habilidades empresariales y de liderazgo, así como la comprensión del proceso emprendedor y la gestión de proyectos. Se abordan temas como la planificación estratégica, el marketing, la financiación y la innovación.",
     "nivel_id": 4
   },
   {
@@ -221,7 +221,7 @@
     "imagen": "https://images.unsplash.com/photo-1455540904194-fc101941273a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGluZ2wlQzMlQkFzeXxlbnwwfHwwfHx8MA%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Inglés en bachillerato se centra en el desarrollo de habilidades comunicativas en el idioma inglés, incluyendo la comprensión auditiva, la expresión oral y escrita, así como la gramática y el vocabulario. Se fomenta el uso activo del idioma en situaciones cotidianas y académicas, preparando a los estudiantes para la comunicación global.",
+    "descripcion": "El curso de Inglés en bachillerato se centra en el desarrollo de habilidades comunicativas en el idioma inglés, incluyendo la comprensión auditiva, la expresión oral y escrita, así como la gramática y el vocabulario. Se fomenta el uso activo del idioma en situaciones cotidianas y académicas.",
     "nivel_id": 4
   },
   {
@@ -239,7 +239,7 @@
     "imagen": "https://images.unsplash.com/photo-1607988795691-3d0147b43231?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZWluc3RlaW58ZW58MHx8MHx8fDI%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Física en bachillerato estudia los fenómenos físicos y las leyes que rigen el universo, desde la mecánica clásica hasta la física cuántica y la relatividad. Se fomenta la experimentación y la aplicación de conceptos teóricos en la resolución de problemas prácticos, preparando a los estudiantes para carreras en ciencias e ingeniería.",
+    "descripcion": "El curso de Física en bachillerato estudia los fenómenos físicos y las leyes que rigen el universo, desde la mecánica clásica hasta la física cuántica y la relatividad. Se fomenta la experimentación y la aplicación de conceptos teóricos en la resolución de problemas prácticos.",
     "nivel_id": 4
   },
   {
@@ -248,7 +248,7 @@
     "imagen": "https://images.unsplash.com/photo-1532153470116-e8c2088b8ac1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29udGFiaWxpZGFkfGVufDB8fDB8fHww",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Biología en bachillerato aborda los principios fundamentales de la vida, incluyendo la genética, la evolución, la ecología y la fisiología de los organismos. Se exploran las interacciones entre los seres vivos y su entorno, así como las aplicaciones de la biología en la medicina, la agricultura y la conservación ambiental.",
+    "descripcion": "El curso de Biología en bachillerato aborda los principios fundamentales de la vida, incluyendo la genética, la evolución, la ecología y la fisiología de los organismos. Se exploran las interacciones entre los seres vivos y su entorno.",
     "nivel_id": 4
   },
   {
@@ -266,7 +266,7 @@
     "imagen": "https://plus.unsplash.com/premium_photo-1672287579431-7183aac64429?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YXJ0ZXxlbnwwfHwwfHx8MA%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Educación Cultural y Artística en bachillerato explora la expresión artística y cultural en sus diversas manifestaciones, incluyendo la música, el arte visual, el teatro y la danza. Se fomenta la apreciación estética y la creatividad, así como el conocimiento de las tradiciones culturales locales y globales.",
+    "descripcion": "El curso de Educación Cultural y Artística en bachillerato explora la expresión artística y cultural en sus diversas manifestaciones, incluyendo la música, el arte visual, el teatro y la danza. Se fomenta la apreciación estética y la creatividad.",
     "nivel_id": 4
   },
   {
@@ -275,7 +275,7 @@
     "imagen": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZWR1Y2FjaSVDMyVCM24lMjBmJUMzJUFEc2ljYXxlbnwwfHwwfHx8MA%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Contabilidad en bachillerato proporciona los conocimientos y habilidades necesarios para comprender los principios contables y aplicar técnicas de registro, análisis y presentación de información financiera. Se prepara a los estudiantes para comprender los estados financieros, realizar registros contables básicos y comprender los fundamentos de la gestión empresarial.",
+    "descripcion": "El curso de Contabilidad en bachillerato proporciona los conocimientos y habilidades necesarios para comprender los principios contables y aplicar técnicas de registro, análisis y presentación de información financiera.",
     "nivel_id": 4
   }
 ]
