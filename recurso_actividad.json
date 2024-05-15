@@ -2,6 +2,7 @@
   {
     "recurso_det_id": 1,
     "titulo": "Pixel art",
+    "imagen_url": "https://www.liveworksheets.com/sites/default/files/styles/worksheet/public/def_files/2021/3/18/103181644451348696/103181644451348696001.jpg?itok=aBoTB6cE",
     "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=ke&i=ottztc&r=fm&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslcrjzzgzkevngnkgexexg&mw=hs",
     "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 4,
@@ -10,8 +11,9 @@
   },
   {
     "recurso_det_id": 2,
-    "titulo": "CUADERNILLO DE EDUCACIÓN ARTISTICA",
-    "url": "https://materialesdocentes.com/tag/cuadernillo-de-educacion-artistica/",
+    "titulo": "Encuentra en el museo (arte)",
+    "imagen_url": "https://www.liveworksheets.com/sites/default/files/styles/worksheet/public/def_files/2020/6/5/605151811291546/605151811291546001.jpg?itok=2P6wy_xM",
+    "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=jf&i=dfstfu&r=kh&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslqenepzexcwngnkgexexg&mw=hs",
     "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 4,
     "materia": "Arte y Creatividad",
@@ -20,6 +22,7 @@
   {
     "recurso_det_id": 3,
     "titulo": "PUZZLE - FRUIT Puzzle",
+    "imagen_url": "https://www.liveworksheets.com/sites/default/files/styles/worksheet/public/def_files/2021/11/2/111020740212947277/111020740212947277001.jpg?itok=dQI0gD5s",
     "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=hv&i=ufnfstz&r=gb&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslwyxelepzgbfngnkgexexg&mw=hs",
     "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 4,
@@ -29,6 +32,7 @@
   {
     "recurso_det_id": 4,
     "titulo": "Puzzle 1",
+    "imagen_url": "https://www.liveworksheets.com/sites/default/files/styles/worksheet/public/def_files/2022/1/11/20111100638560033/20111100638560033001.jpg?itok=KLq_bEuX",
     "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=jd&i=usosuuo&r=pn&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslqnxpjpxxjhlngnkgexexg&mw=hs",
     "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 4,
@@ -38,6 +42,7 @@
   {
     "recurso_det_id": 5,
     "titulo": "Esculturas",
+    "imagen_url": "https://www.liveworksheets.com/sites/default/files/styles/worksheet/public/def_files/2021/2/4/10204163312824242/10204163312824242001.jpg?itok=5XlYtV0D",
     "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=fg&i=xntnon&r=oq&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslebmlzljljtngnkgexexg&mw=hs",
     "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 11,
@@ -47,6 +52,7 @@
   {
     "recurso_det_id": 6,
     "titulo": "Colores II",
+    "imagen_url": "https://www.liveworksheets.com/sites/default/files/styles/worksheet/public/def_files/2022/2/16/202161742543436973/202161742543436973001.jpg?itok=y-Nc8dGx",
     "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=hb&i=uossxou&r=ax&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslwfxjppmjxdmngnkgexexg&mw=hs",
     "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 11,
@@ -56,6 +62,7 @@
   {
     "recurso_det_id": 7,
     "titulo": "Los colores fríos y cálidos",
+    "imagen_url": "https://www.liveworksheets.com/sites/default/files/styles/worksheet/public/def_files/2022/12/6/212060032591308399/212060032591308399001.jpg?itok=pBMzuAh-",
     "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=mu&i=ddtftcu&r=ud&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslvxnnzezkxxnngnkgexexg&mw=hs",
     "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 11,
@@ -65,6 +72,7 @@
   {
     "recurso_det_id": 8,
     "titulo": "Colores primarios y secundarios",
+    "imagen_url": "https://www.liveworksheets.com/sites/default/files/styles/worksheet/public/def_files/2020/8/25/825044140566224/825044140566224001.jpg?itok=AjXnaP3y",
     "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=ss&i=ttfsxz&r=cj&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslppzzepmgkqngnkgexexg&mw=hs",
     "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
     "materia_id": 11,
