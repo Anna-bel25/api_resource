@@ -1,0 +1,74 @@
+[
+  {
+    "recurso_det_id": 1,
+    "titulo": "Pixel art",
+    "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=ke&i=ottztc&r=fm&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslcrjzzgzkevngnkgexexg&mw=hs",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
+    "materia_id": 4,
+    "materia": "Arte y Creatividad",
+    "nivel_id": "Preescolar"
+  },
+  {
+    "recurso_det_id": 2,
+    "titulo": "CUADERNILLO DE EDUCACIÓN ARTISTICA",
+    "url": "https://materialesdocentes.com/tag/cuadernillo-de-educacion-artistica/",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
+    "materia_id": 4,
+    "materia": "Arte y Creatividad",
+    "nivel_id": "Preescolar"
+  },
+  {
+    "recurso_det_id": 3,
+    "titulo": "PUZZLE - FRUIT Puzzle",
+    "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=hv&i=ufnfstz&r=gb&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslwyxelepzgbfngnkgexexg&mw=hs",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
+    "materia_id": 4,
+    "materia": "Arte y Creatividad",
+    "nivel_id": "Preescolar"
+  },
+  {
+    "recurso_det_id": 4,
+    "titulo": "Puzzle 1",
+    "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=jd&i=usosuuo&r=pn&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslqnxpjpxxjhlngnkgexexg&mw=hs",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
+    "materia_id": 4,
+    "materia": "Arte y Creatividad",
+    "nivel_id": "Preescolar"
+  },
+  {
+    "recurso_det_id": 5,
+    "titulo": "Esculturas",
+    "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=fg&i=xntnon&r=oq&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslebmlzljljtngnkgexexg&mw=hs",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
+    "materia_id": 11,
+    "materia": "ECA (Educación Cultural y Artística)",
+    "nivel_id": "Primaria"
+  },
+  {
+    "recurso_det_id": 6,
+    "titulo": "Colores II",
+    "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=hb&i=uossxou&r=ax&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslwfxjppmjxdmngnkgexexg&mw=hs",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
+    "materia_id": 11,
+    "materia": "ECA (Educación Cultural y Artística)",
+    "nivel_id": "Primaria"
+  },
+  {
+    "recurso_det_id": 7,
+    "titulo": "Los colores fríos y cálidos",
+    "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=mu&i=ddtftcu&r=ud&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslvxnnzezkxxnngnkgexexg&mw=hs",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
+    "materia_id": 11,
+    "materia": "ECA (Educación Cultural y Artística)",
+    "nivel_id": "Primaria"
+  },
+  {
+    "recurso_det_id": 8,
+    "titulo": "Colores primarios y secundarios",
+    "url": "https://www.liveworksheets.com/es/c?a=s&t=ppenhgmttvr&sr=n&l=ss&i=ttfsxz&r=cj&f=dzdczfuf&ms=uz&cd=phhrlwbvzzyslppzzepmgkqngnkgexexg&mw=hs",
+    "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium ea est commodi incidunt magni quia molestias perspiciatis, unde repudiandae quidem.",
+    "materia_id": 11,
+    "materia": "ECA (Educación Cultural y Artística)",
+    "nivel_id": "Primaria"
+  }
+]
