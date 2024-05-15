@@ -5,7 +5,7 @@
     "imagen": "https://images.unsplash.com/photo-1621452773781-0f992fd1f5cb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmklQzMlQjFvcyUyMGNvbnZlcnNhbmRvfGVufDB8fDB8fHww",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Lenguaje y Comunicación en preescolar tiene como objetivo fomentar el desarrollo del lenguaje oral y las habilidades comunicativas en los niños en edad temprana. Se enfoca en actividades lúdicas y creativas que promueven el vocabulario, la expresión verbal y la comprensión del entorno.",
+    "descripcion": "El curso de Lenguaje y Comunicación en preescolar tiene como objetivo fomentar el desarrollo del lenguaje oral y las habilidades comunicativas en los niños en edad temprana. Se enfoca en actividades lúdicas y creativas que promueven el vocabulario.",
     "nivel_id": 1
   },
   {
@@ -14,7 +14,7 @@
     "imagen": "https://plus.unsplash.com/premium_photo-1661292099839-1e89fe3fa727?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGNvbiUyMG1hdGVtYXRpY2FzfGVufDB8fDB8fHww",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Pensamiento Matemático en preescolar tiene como objetivo introducir conceptos matemáticos básicos de manera lúdica y experiencial. Se enfoca en el reconocimiento de números, formas, patrones y secuencias, promoviendo el razonamiento lógico y la resolución de problemas desde edades tempranas.",
+    "descripcion": "El curso de Pensamiento Matemático en preescolar tiene como objetivo introducir conceptos matemáticos básicos de manera lúdica y experiencial. Se enfoca en el reconocimiento de números, formas, patrones y secuencias, promoviendo el razonamiento lógico.",
     "nivel_id": 1
   },
   {
@@ -50,7 +50,7 @@
     "imagen": "https://images.unsplash.com/photo-1518133835878-5a93cc3f89e5?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Matemáticas Básicas en primaria tiene como objetivo desarrollar habilidades numéricas y de resolución de problemas en los estudiantes. Se trabajan conceptos de suma, resta, multiplicación, división y geometría básica, promoviendo el razonamiento lógico y el pensamiento crítico desde edades tempranas.",
+    "descripcion": "El curso de Matemáticas Básicas en primaria tiene como objetivo desarrollar habilidades numéricas y de resolución de problemas en los estudiantes. Se trabajan conceptos de suma, resta, multiplicación, división y geometría básica.",
     "nivel_id": 2
   },
   {
@@ -59,7 +59,7 @@
     "imagen": "https://images.unsplash.com/photo-1705769203615-d79690da4dc8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2llbmNpYXMlMjBOYXR1cmFsZXN8ZW58MHx8MHx8fDA%3D9ad422f6de6?q=80&w=1736&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Ciencias Naturales en primaria tiene como objetivo introducir a los estudiantes en el estudio de la naturaleza y los seres vivos. Se exploran temas como el cuerpo humano, los animales, las plantas, el medio ambiente y la ecología, fomentando la curiosidad y el cuidado del entorno.",
+    "descripcion": "El curso de Ciencias Naturales en primaria tiene como objetivo introducir a los estudiantes en el estudio de la naturaleza y los seres vivos. Se exploran temas como el cuerpo humano, los animales, las plantas, el medio ambiente y la ecología.",
     "nivel_id": 2
   },
   {
@@ -95,7 +95,7 @@
     "imagen": "https://plus.unsplash.com/premium_photo-1683134008961-5030dbc70eff?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Educación Cultural y Artística en primaria tiene como objetivo fomentar la apreciación y expresión artística de los estudiantes. Se exploran diversas manifestaciones culturales como música, danza, teatro, artes visuales y literatura, promoviendo la creatividad y el desarrollo integral.",
+    "descripcion": "El curso de Educación Cultural y Artística en primaria tiene como objetivo fomentar la apreciación y expresión artística de los estudiantes. Se exploran diversas manifestaciones culturales como música, danza, teatro, artes visuales y literatura.",
     "nivel_id": 2
   },
   {
@@ -158,7 +158,7 @@
     "imagen": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fENvbXB1dGFET1JBfGVufDB8fDB8fHww",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Computación en la secundaria tiene como objetivo desarrollar competencias en el uso de herramientas informáticas y tecnológicas. Se aprenden conceptos de informática básica, manejo de software y navegación en internet, con el fin de potenciar la alfabetización digital de los estudiantes.",
+    "descripcion": "El curso de Computación en la secundaria tiene como objetivo desarrollar competencias en el uso de herramientas informáticas y tecnológicas. Se aprenden conceptos de informática básica, con el fin de potenciar la alfabetización digital de los estudiantes.",
     "nivel_id": 3
   },
   {
@@ -167,7 +167,7 @@
     "imagen": "https://plus.unsplash.com/premium_photo-1702088072189-ee8e317d2e01?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZWR1Y2FjaSVDMyVCM24lMjBjdWx0dXJhbCUyMHklMjBhcnQlQzMlQURzdGljYXxlbnwwfHwwfHx8MA%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Educación Cultural y Artística en la secundaria tiene como objetivo fomentar la apreciación y expresión artística de los estudiantes. Se exploran diversas manifestaciones culturales como música, teatro, artes visuales y literatura, promoviendo la creatividad y el desarrollo integral.",
+    "descripcion": "El curso de Educación Cultural y Artística en la secundaria tiene como objetivo fomentar la apreciación y expresión artística de los estudiantes. Se exploran diversas manifestaciones culturales, promoviendo la creatividad y el desarrollo integral.",
     "nivel_id": 3
   },
   {
@@ -203,7 +203,7 @@
     "imagen": "https://images.unsplash.com/photo-1620662831351-9f68f76d0b9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGZpbG9zb2YlQzMlQURhfGVufDB8fDB8fHww",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Filosofía en bachillerato invita a los estudiantes a reflexionar sobre cuestiones fundamentales relacionadas con la existencia humana, la ética, la política y la metafísica. Se exploran las ideas de filósofos clásicos y contemporáneos, promoviendo el pensamiento crítico y la argumentación racional.",
+    "descripcion": "El curso de Filosofía en bachillerato invita a los estudiantes a reflexionar sobre cuestiones fundamentales relacionadas con la existencia humana, la ética, la política y la metafísica. Promoviendo el pensamiento crítico y la argumentación racional.",
     "nivel_id": 4
   },
   {
@@ -212,7 +212,7 @@
     "imagen": "https://images.unsplash.com/photo-1509443513700-bdc1caaf67e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGVtcHJlbmRpbWllbnRvfGVufDB8fDB8fHww",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Emprendimiento en bachillerato promueve el desarrollo de habilidades empresariales y de liderazgo, así como la comprensión del proceso emprendedor y la gestión de proyectos. Se abordan temas como la planificación estratégica, el marketing, la financiación y la innovación.",
+    "descripcion": "El curso de Emprendimiento en bachillerato promueve el desarrollo de habilidades empresariales y de liderazgo, así como la comprensión del proceso emprendedor y la gestión de proyectos.",
     "nivel_id": 4
   },
   {
@@ -221,7 +221,7 @@
     "imagen": "https://images.unsplash.com/photo-1455540904194-fc101941273a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGluZ2wlQzMlQkFzeXxlbnwwfHwwfHx8MA%3D%3D",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Inglés en bachillerato se centra en el desarrollo de habilidades comunicativas en el idioma inglés, incluyendo la comprensión auditiva, la expresión oral y escrita, así como la gramática y el vocabulario. Se fomenta el uso activo del idioma en situaciones cotidianas y académicas.",
+    "descripcion": "El curso de Inglés en bachillerato se centra en el desarrollo de habilidades comunicativas en el idioma inglés, incluyendo la comprensión auditiva, la expresión oral y escrita, así como la gramática y el vocabulario.",
     "nivel_id": 4
   },
   {
@@ -230,7 +230,7 @@
     "imagen": "https://images.unsplash.com/photo-1628863353691-0071c8c1874c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cXUlQzMlQURtaWNhfGVufDB8fDB8fHww",
     "fecha": "21st may, 2023",
     "autor": "admin",
-    "descripcion": "El curso de Química en bachillerato introduce a los estudiantes en los principios y conceptos fundamentales de la química, incluyendo la estructura de la materia, las reacciones químicas y sus aplicaciones en la vida cotidiana y en diversas industrias. Se enfatiza el pensamiento científico y la resolución de problemas.",
+    "descripcion": "El curso de Química en bachillerato introduce a los estudiantes en los principios y conceptos fundamentales de la química, incluyendo la estructura de la materia, las reacciones químicas y sus aplicaciones en la vida cotidiana y en diversas industrias.",
     "nivel_id": 4
   },
   {
