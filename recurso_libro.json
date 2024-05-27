@@ -1,7 +1,7 @@
 [
   {
     "libro_id" : 1,
-    "materia_id": "5",
+    "materia_id": 5,
     "titulo" : "El lenguaje",
     "imagen_url": "https://books.google.com.ec/books/content?id=eDlr9ALBmnUC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70YZBYT6bjkilDmuHTOb-yYUcaTyGUr8bjXmqtGqKx3_rmir49X12kqvFdy6UgIQVn390NzCo12Z-8hedZaYr1DhEEFXh2KEZLS-mNnXkiFo1skUMrxW6PnixnCceER8gn62Uyy",
     "url": "https://books.google.com.ec/books?hl=es&lr=&id=eDlr9ALBmnUC&oi=fnd&pg=PA5&dq=libros+de+lenguaje&ots=YzaBo4Wo__&sig=k0fkMtxa9qv3pZ8P9_ywWSruxAg#v=onepage&q=libros%20de%20lenguaje&f=false",
