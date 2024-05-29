@@ -1,281 +1,281 @@
 [
-  {
-    "materia_id": 1,
-    "nivel_id": 1,
-    "nombre": "Lenguaje y Comunicación",
-    "imagen": "https://images.unsplash.com/photo-1621452773781-0f992fd1f5cb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmklQzMlQjFvcyUyMGNvbnZlcnNhbmRvfGVufDB8fDB8fHww",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Lenguaje y Comunicación en preescolar tiene como objetivo fomentar el desarrollo del lenguaje oral y las habilidades comunicativas en los niños en edad temprana. Se enfoca en actividades lúdicas y creativas que promueven el vocabulario."
-  },
-  {
-    "materia_id": 2,
-    "nivel_id": 1,
-    "nombre": "Pensamiento Matemático",
-    "imagen": "https://plus.unsplash.com/premium_photo-1661292099839-1e89fe3fa727?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGNvbiUyMG1hdGVtYXRpY2FzfGVufDB8fDB8fHww",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Pensamiento Matemático en preescolar tiene como objetivo introducir conceptos matemáticos básicos. Se enfoca en el reconocimiento de números, formas, patrones y secuencias, promoviendo el razonamiento lógico."
-  },
-  {
-    "materia_id": 3,
-    "nivel_id": 1,
-    "nombre": "Educación Física",
-    "imagen": "https://plus.unsplash.com/premium_photo-1683133504417-7c9eabab7ade?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bmklQzMlQjFvcyUyMGhhY2llbmRvJTIwZGVwb3J0ZXxlbnwwfHwwfHx8MA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Educación Física en preescolar tiene como objetivo promover el desarrollo motor y la actividad física en los niños en edad preescolar. Se realizan actividades recreativas, juegos y ejercicios que favorecen la coordinación de los niños."
-  },
-  {
-    "materia_id": 4,
-    "nivel_id": 1,
-    "nombre": "Arte y Creatividad",
-    "imagen": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bmklQzMlQjFvcyUyMHBpbnRhbmRvfGVufDB8fDB8fHww",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Arte y Creatividad en preescolar tiene como objetivo estimular la imaginación, la expresión artística y la creatividad de los niños a través de diversas actividades plásticas, musicales y de expresión corporal."
-  },
-  {
-    "materia_id": 5,
-    "nivel_id": 2,
-    "nombre": "Lenguaje y Comunicación",
-    "imagen": "https://plus.unsplash.com/premium_photo-1705625457030-a367f035c226?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGxlbmd1YWplJTIweSUyMGNvbXVuaWNhY2lvbiUyMG5pJUMzJUIxb3N8ZW58MHx8MHx8fDA%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Lenguaje y Comunicación en primaria tiene como objetivo desarrollar habilidades de lectura, escritura y comunicación oral en los estudiantes. Se enfoca en el aprendizaje de la gramática, el vocabulario y la comprensión de textos."
-  },
-  {
-    "materia_id": 6,
-    "nivel_id": 2,
-    "nombre": "Matemáticas Básicas",
-    "imagen": "https://images.unsplash.com/photo-1518133835878-5a93cc3f89e5?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Matemáticas Básicas en primaria tiene como objetivo desarrollar habilidades numéricas y de resolución de problemas en los estudiantes. Se trabajan conceptos de suma, resta, multiplicación, división y geometría básica."
-  },
-  {
-    "materia_id": 7,
-    "nivel_id": 2,
-    "nombre": "Ciencias Naturales",
-    "imagen": "https://images.unsplash.com/photo-1705769203615-d79690da4dc8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2llbmNpYXMlMjBOYXR1cmFsZXN8ZW58MHx8MHx8fDA%3D9ad422f6de6?q=80&w=1736&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Ciencias Naturales en primaria tiene como objetivo introducir a los estudiantes en el estudio de la naturaleza y los seres vivos. Se exploran temas como el cuerpo humano, los animales, las plantas, el medio ambiente y la ecología."
-  },
-  {
-    "materia_id": 8,
-    "nivel_id": 2,
-    "nombre": "Ciencias Sociales",
-    "imagen": "https://images.unsplash.com/photo-1591937350525-92bddfc39b75?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZXN0dWRpb3MlMjBzb2NpYWxlc3xlbnwwfHwwfHx8MA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Ciencias Sociales en primaria tiene como objetivo introducir a los estudiantes en el estudio de la sociedad y su entorno. Se exploran temas como la historia, la geografía, la cultura, la economía y la política."
-  },
-  {
-    "materia_id": 9,
-    "nivel_id": 2,
-    "nombre": "Educación Física",
-    "imagen": "https://plus.unsplash.com/premium_photo-1681842163457-26303db2ef5c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RWR1Y2FjaSUyMENvdWx0b3JhbCUyMGFuZCUyMGFydGlzdGE=fkYQOKK",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Educación Física en primaria tiene como objetivo promover la actividad física y el desarrollo motor en los estudiantes. Se realizan actividades recreativas, juegos y ejercicios que favorecen la coordinación de los niños."
-  },
-  {
-    "materia_id": 10,
-    "nivel_id": 2,
-    "nombre": "Inglés",
-    "imagen": "https://images.unsplash.com/photo-1543109740-4bdb38fda756?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Inglés en primaria tiene como objetivo introducir a los estudiantes en el idioma inglés de manera lúdica y comunicativa. Se enfoca en el desarrollo de habilidades de escucha, habla, lectura y escritura."
-  },
-  {
-    "materia_id": 11,
-    "nivel_id": 2,
-    "nombre": "ECA (Educación Cultural y Artística)",
-    "imagen": "https://plus.unsplash.com/premium_photo-1683134008961-5030dbc70eff?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Educación Cultural y Artística en primaria tiene como objetivo fomentar la apreciación y expresión artística de los estudiantes. Se exploran diversas manifestaciones culturales como música, danza, teatro, artes visuales y literatura."
-  },
-  {
-    "materia_id": 12,
-    "nivel_id": 3,
-    "nombre": "Lenguaje y Comunicación",
-    "imagen": "https://images.unsplash.com/photo-1570616969692-54d6ba3d0397?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGVuZ3VhamUlMjB5JTIwY29tdW5pY2FjaSUyMENvdWx0b3JhbGVzfGVufDB8fDB8fHww",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Lenguaje y Comunicación en la secundaria tiene como objetivo desarrollar habilidades de comprensión y producción de textos, tanto escritos como orales. Se abordan temas como gramática, ortografía, redacción y análisis literario."
-  },
-  {
-    "materia_id": 13,
-    "nivel_id": 3,
-    "nombre": "Matemáticas",
-    "imagen": "https://images.unsplash.com/photo-1560785496-284e257f0bf7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG1hdGVtYXRpY2FzfGVufDB8fDB8fHwy",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Matemáticas en la secundaria tiene como objetivo desarrollar el razonamiento lógico y las habilidades para resolver problemas. Se abordan conceptos como álgebra, geometría, trigonometría y cálculo."
-  },
-  {
-    "materia_id": 14,
-    "nivel_id": 3,
-    "nombre": "Ciencias Naturales",
-    "imagen": "https://images.unsplash.com/photo-1546443046-fb849d0d51d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fG5hdHVyYWwlMjBjaWVzY2llbnMlMjBsaWZlc3xlbnwwfHwwfHw%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Ciencias Naturales en la secundaria tiene como objetivo comprender los fenómenos naturales y el funcionamiento del mundo que nos rodea. Se abordan temas como biología, física, química y geología, fomentando la curiosidad y el método científico."
-  },
-  {
-    "materia_id": 15,
-    "nivel_id": 3,
-    "nombre": "Estudios Sociales",
-    "imagen": "https://images.unsplash.com/photo-1603340556651-62826bbf7f1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c29jaWFsJTIwZXN0dWRpYWxzJTIwaW1hZ2VzfGVufDB8fDB8fHw%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Estudios Sociales en la secundaria tiene como objetivo comprender la sociedad y su evolución histórica, así como los procesos políticos, económicos y culturales que la configuran."
-  },
-  {
-    "materia_id": 16,
-    "nivel_id": 3,
-    "nombre": "Educación Física",
-    "imagen": "https://images.unsplash.com/photo-1505843510891-5944c7933d6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RWR1Y2FjaSUyMENvdWx0b3JhbCUyMGFuZCUyMGFydGlzdGE=",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Educación Física en la secundaria tiene como objetivo promover la actividad física y el desarrollo motor en los estudiantes. Se realizan actividades deportivas, recreativas y ejercicios que favorecen la coordinación de los jóvenes."
-  },
-  {
-    "materia_id": 17,
-    "nivel_id": 3,
-    "nombre": "Inglés",
-    "imagen": "https://images.unsplash.com/photo-1543109740-4bdb38fda756?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Inglés en la secundaria tiene como objetivo fortalecer las habilidades comunicativas en el idioma inglés. Se enfoca en el desarrollo de la comprensión auditiva, expresión oral a través de actividades interactivas y proyectos comunicativos."
-  },
-  {
-    "materia_id": 18,
-    "nivel_id": 3,
-    "nombre": "Informática",
-    "imagen": "https://images.unsplash.com/photo-1532203786702-d67ad8e76e5c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aW5mb3JtYXRpY3xlbnwwfHwwfHx8fA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Informática en la secundaria tiene como objetivo desarrollar competencias en el manejo de herramientas informáticas y tecnológicas. Se abordan temas como software, hardware, sistemas operativos, internet y seguridad informática."
-  },
-  {
-    "materia_id": 19,
-    "nivel_id": 3,
-    "nombre": "Educación Cultural y Artística",
-    "imagen": "https://images.unsplash.com/photo-1534528741770-1d3a99c342a4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXJ0aWNsZXN0aWMlMjBvZiUyMGVkcGNvbWVkaWFuJTIwZGUlMjBhcml0aXN0YXxlbnwwfHwwfHx8fA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Educación Cultural y Artística en la secundaria tiene como objetivo fomentar la apreciación y expresión artística de los estudiantes. Se exploran diversas manifestaciones culturales como música, danza, teatro, artes visuales y literatura."
-  },
-  {
-    "materia_id": 20,
-    "nivel_id": 4,
-    "nombre": "Lengua y Literatura",
-    "imagen": "https://images.unsplash.com/photo-1549758712-0e4b1a72744a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGVuZ3VhamUlMjB5JTIwY29tdW5pY2FjaW9ufGVufDB8fDB8fHx8",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Lengua y Literatura en el bachillerato tiene como objetivo desarrollar habilidades de comprensión de textos literarios. Se analizan obras literarias de distintos géneros y épocas, promoviendo la reflexión crítica y la expresión creativa."
-  },
-  {
-    "materia_id": 21,
-    "nivel_id": 4,
-    "nombre": "Matemáticas",
-    "imagen": "https://images.unsplash.com/photo-1626944849132-cba4507924f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1hdGVtYXRpY3xlbnwwfHwwfHx8fA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Matemáticas en el bachillerato tiene como objetivo desarrollar habilidades de razonamiento lógico y resolución de problemas. Se estudia álgebra, geometría, cálculo y estadística, aplicados en situaciones prácticas y contextos reales."
-  },
-  {
-    "materia_id": 22,
-    "nivel_id": 4,
-    "nombre": "Historia",
-    "imagen": "https://images.unsplash.com/photo-1515213843162-9f3046683127?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGlzdG9yaWElMjBvZiUyMGNvbGxpbmdpbmclMjBzdW5pbmdseSUyMGhvbWUlMjB1bnN1YnNjcmliZXJhdG9yfGVufDB8fDB8fHx8",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Historia ofrece una visión completa sobre el colonialismo durante la época del Imperio Español, abordando su impacto en las sociedades humanas y en el desarrollo de las naciones modernas."
-  },
-  {
-    "materia_id": 23,
-    "nivel_id": 4,
-    "nombre": "Filosofía",
-    "imagen": "https://images.unsplash.com/photo-1620662831351-9f68f76d0b9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGZpbG9zb2YlQzMlQURhfGVufDB8fDB8fHww",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Filosofía en bachillerato invita a los estudiantes a reflexionar sobre cuestiones fundamentales relacionadas con la existencia humana, la ética, la política y la metafísica. Promoviendo el pensamiento crítico y la argumentación racional."
-  },
-  {
-    "materia_id": 24,
-    "nivel_id": 4,
-    "nombre": "Emprendimiento",
-    "imagen": "https://images.unsplash.com/photo-1509443513700-bdc1caaf67e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGVtcHJlbmRpbWllbnRvfGVufDB8fDB8fHww",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Emprendimiento en bachillerato promueve el desarrollo de habilidades empresariales y de liderazgo, así como la comprensión del proceso emprendedor y la gestión de proyectos."
-  },
-  {
-    "materia_id": 25,
-    "nivel_id": 4,
-    "nombre": "Inglés",
-    "imagen": "https://images.unsplash.com/photo-1455540904194-fc101941273a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGluZ2wlQzMlQkFzeXxlbnwwfHwwfHx8MA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Inglés en bachillerato se centra en el desarrollo de habilidades comunicativas en el idioma inglés, incluyendo la comprensión auditiva, la expresión oral y escrita, así como la gramática y el vocabulario."
-  },
-  {
-    "materia_id": 26,
-    "nivel_id": 4,
-    "nombre": "Química",
-    "imagen": "https://images.unsplash.com/photo-1628863353691-0071c8c1874c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cXUlQzMlQURtaWNhfGVufDB8fDB8fHww",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Química en bachillerato introduce a los estudiantes en los principios y conceptos fundamentales de la química, incluyendo la estructura de la materia, las reacciones químicas y sus aplicaciones en la vida cotidiana y en diversas industrias."
-  },
-  {
-    "materia_id": 27,
-    "nivel_id": 4,
-    "nombre": "Física",
-    "imagen": "https://images.unsplash.com/photo-1607988795691-3d0147b43231?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZWluc3RlaW58ZW58MHx8MHx8fDI%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Física en bachillerato estudia los fenómenos físicos y las leyes que rigen el universo, desde la mecánica clásica hasta la física cuántica y la relatividad. Se promueve experimentación y aplicación de conceptos en problemas prácticos."
-  },
-  {
-    "materia_id": 28,
-    "nivel_id": 4,
-    "nombre": "Biología",
-    "imagen": "https://images.unsplash.com/photo-1532153470116-e8c2088b8ac1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29udGFiaWxpZGFkfGVufDB8fDB8fHww",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Biología en bachillerato aborda los principios fundamentales de la vida, incluyendo la genética, la evolución, la ecología y la fisiología de los organismos. Se exploran las interacciones entre los seres vivos y su entorno."
-  },
-  {
-    "materia_id": 29,
-    "nivel_id": 4,
-    "nombre": "Educación Física",
-    "imagen": "https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29udGFiaWxpZGFkfGVufDB8fDB8fHww",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Educación Física en bachillerato promueve la actividad física, el deporte y el bienestar integral de los estudiantes. Se fomenta habilidades motoras, condición física y estilo de vida saludable.."
-  },
-  {
-    "materia_id": 30,
-    "nivel_id": 4,
-    "nombre": "Educación Cultural y Artística (ECA)",
-    "imagen": "https://plus.unsplash.com/premium_photo-1672287579431-7183aac64429?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YXJ0ZXxlbnwwfHwwfHx8MA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Educación Cultural y Artística en bachillerato explora la expresión artística y cultural en sus diversas manifestaciones, incluyendo la música, el arte visual, el teatro y la danza. Se fomenta la apreciación estética y la creatividad."
-  },
-  {
-    "materia_id": 31,
-    "nivel_id": 4,
-    "nombre": "Contabilidad",
-    "imagen": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZWR1Y2FjaSVDMyVCM24lMjBmJUMzJUFEc2ljYXxlbnwwfHwwfHx8MA%3D%3D",
-    "fecha": "2023-05-21",
-    "autor": "admin",
-    "descripcion": "El curso de Contabilidad en bachillerato proporciona los conocimientos y habilidades necesarios para comprender los principios contables y aplicar técnicas de registro, análisis y presentación de información financiera."
-  }
+    {
+        "materia_id": 1,
+        "nivel_id": 1,
+        "nombre": "Lenguaje y Comunicación",
+        "imagen": "https://images.unsplash.com/photo-1621452773781-0f992fd1f5cb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmklQzMlQjFvcyUyMGNvbnZlcnNhbmRvfGVufDB8fDB8fHww",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Lenguaje y Comunicación fomenta el desarrollo del lenguaje oral y habilidades comunicativas en niños pequeños, con actividades lúdicas y creativas para promover el vocabulario."
+    },
+    {
+        "materia_id": 2,
+        "nivel_id": 1,
+        "nombre": "Pensamiento Matemático",
+        "imagen": "https://plus.unsplash.com/premium_photo-1661292099839-1e89fe3fa727?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmklQzMlQjFvcyUyMGNvbiUyMG1hdGVtYXRpY2FzfGVufDB8fDB8fHww",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Pensamiento Matemático tiene como objetivo introducir conceptos matemáticos básicos, como números, formas, patrones y secuencias, promoviendo el razonamiento lógico."
+    },
+    {
+        "materia_id": 3,
+        "nivel_id": 1,
+        "nombre": "Educación Física",
+        "imagen": "https://plus.unsplash.com/premium_photo-1683133504417-7c9eabab7ade?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bmklQzMlQjFvcyUyMGhhY2llbmRvJTIwZGVwb3J0ZXxlbnwwfHwwfHx8MA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Educación Física en preescolar promueve el desarrollo motor y la actividad física con actividades recreativas, juegos y ejercicios que favorecen la coordinación de los niños."
+    },
+    {
+        "materia_id": 4,
+        "nivel_id": 1,
+        "nombre": "Arte y Creatividad",
+        "imagen": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bmklQzMlQjFvcyUyMHBpbnRhbmRvfGVufDB8fDB8fHww",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Arte y Creatividad en preescolar estimula la imaginación, la expresión artística y la creatividad de los niños mediante actividades plásticas, musicales y de expresión corporal."
+    },
+    {
+        "materia_id": 5,
+        "nivel_id": 2,
+        "nombre": "Lenguaje y Comunicación",
+        "imagen": "https://plus.unsplash.com/premium_photo-1705625457030-a367f035c226?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGxlbmd1YWplJTIweSUyMGNvbXVuaWNhY2lvbiUyMG5pJUMzJUIxb3N8ZW58MHx8MHx8fDA%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Lenguaje y Comunicación en primaria desarrolla habilidades de lectura, escritura y comunicación oral, enfocándose en gramática, vocabulario y comprensión de textos."
+    },
+    {
+        "materia_id": 6,
+        "nivel_id": 2,
+        "nombre": "Matemáticas Básicas",
+        "imagen": "https://images.unsplash.com/photo-1518133835878-5a93cc3f89e5?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Matemáticas Básicas en primaria desarrolla habilidades numéricas y de resolución de problemas, incluyendo suma, resta, multiplicación, división y geometría básica."
+    },
+    {
+        "materia_id": 7,
+        "nivel_id": 2,
+        "nombre": "Ciencias Naturales",
+        "imagen": "https://images.unsplash.com/photo-1705769203615-d79690da4dc8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2llbmNpYXMlMjBOYXR1cmFsZXN8ZW58MHx8MHx8fDA%3D9ad422f6de6?q=80&w=1736&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Ciencias Naturales introduce a los estudiantes en el estudio de la naturaleza y los seres vivos, abordando temas como el cuerpo humano, animales, plantas, medio ambiente y ecología."
+    },
+    {
+        "materia_id": 8,
+        "nivel_id": 2,
+        "nombre": "Ciencias Sociales",
+        "imagen": "https://images.unsplash.com/photo-1591937350525-92bddfc39b75?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZXN0dWRpb3MlMjBzb2NpYWxlc3xlbnwwfHwwfHx8MA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Ciencias Sociales introduce a los estudiantes en el estudio de la sociedad y su entorno. Se exploran temas como la historia, la geografía, la cultura, la economía y la política."
+    },
+    {
+        "materia_id": 9,
+        "nivel_id": 2,
+        "nombre": "Educación Física",
+        "imagen": "https://plus.unsplash.com/premium_photo-1681842163457-26303db2ef5c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RWR1Y2FjaSUyMENvdWx0b3JhbCUyMGFuZCUyMGFydGlzdGE=fkYQOKK",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Educación Física en primaria promueve actividad física y desarrollo motor con actividades recreativas, juegos y ejercicios que favorecen la coordinación de los niños."
+    },
+    {
+        "materia_id": 10,
+        "nivel_id": 2,
+        "nombre": "Inglés",
+        "imagen": "https://images.unsplash.com/photo-1543109740-4bdb38fda756?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Inglés tiene como objetivo introducir a los estudiantes en el idioma inglés de manera lúdica y comunicativa. Se enfoca en el desarrollo de habilidades de escucha, habla, lectura y escritura."
+    },
+    {
+        "materia_id": 11,
+        "nivel_id": 2,
+        "nombre": "Educación Cultural y Artística",
+        "imagen": "https://plus.unsplash.com/premium_photo-1683134008961-5030dbc70eff?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Educación Cultural y Artística fomenta la apreciación y expresión artística de los estudiantes, exploran diversas manifestaciones culturales como música, danza, teatro y artes visuales."
+    },
+    {
+        "materia_id": 12,
+        "nivel_id": 3,
+        "nombre": "Lenguaje y Comunicación",
+        "imagen": "https://images.unsplash.com/photo-1570616969692-54d6ba3d0397?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGVuZ3VhamUlMjB5JTIwY29tdW5pY2FjaSUyMENvdWx0b3JhbGVzfGVufDB8fDB8fHww",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Lenguaje y Comunicación en secundaria desarrolla habilidades de comprensión y producción de textos, abordando gramática, ortografía, redacción y análisis literario."
+    },
+    {
+        "materia_id": 13,
+        "nivel_id": 3,
+        "nombre": "Matemáticas",
+        "imagen": "https://images.unsplash.com/photo-1560785496-284e257f0bf7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG1hdGVtYXRpY2FzfGVufDB8fDB8fHwy",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Matemáticas tiene como objetivo desarrollar el razonamiento lógico y las habilidades para resolver problemas. Se abordan conceptos como álgebra, geometría, trigonometría y cálculo."
+    },
+    {
+        "materia_id": 14,
+        "nivel_id": 3,
+        "nombre": "Ciencias Naturales",
+        "imagen": "https://images.unsplash.com/photo-1635341208965-416ba893af07?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Ciencias Naturales en secundaria busca comprender los fenómenos naturales, abarcando biología, física, química y geología, fomentando la curiosidad y el método científico."
+    },
+    {
+        "materia_id": 15,
+        "nivel_id": 3,
+        "nombre": "Estudios Sociales",
+        "imagen": "https://images.unsplash.com/photo-1591937350525-92bddfc39b75?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZXN0dWRpb3MlMjBzb2NpYWxlc3xlbnwwfHwwfHx8MA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Estudios Sociales en la secundaria tiene como objetivo comprender la sociedad y su evolución histórica, así como los procesos políticos, económicos y culturales que la configuran."
+    },
+    {
+        "materia_id": 16,
+        "nivel_id": 3,
+        "nombre": "Educación Física",
+        "imagen": "https://plus.unsplash.com/premium_photo-1661730410704-b2af2a84b45b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGVkdWNhY2lvbiUyMGZpc2ljYXxlbnwwfHwwfHx8MA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Educación Física en secundaria promueve la actividad física y el desarrollo motor con actividades deportivas, recreativas y ejercicios que favorecen la coordinación."
+    },
+    {
+        "materia_id": 17,
+        "nivel_id": 3,
+        "nombre": "Inglés",
+        "imagen": "https://images.unsplash.com/photo-1543109740-4bdb38fda756?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Inglés en secundaria fortalece habilidades comunicativas en inglés, enfocándose en comprensión auditiva, expresión oral con actividades interactivas y proyectos comunicativos."
+    },
+    {
+        "materia_id": 18,
+        "nivel_id": 3,
+        "nombre": "Informática",
+        "imagen": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aW5mb3JtYXRpY2F8ZW58MHx8MHx8fDA%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Informática en secundaria desarrolla competencias en herramientas informáticas y tecnológicas, abordando software, hardware, sistemas operativos, internet y seguridad."
+    },
+    {
+        "materia_id": 19,
+        "nivel_id": 3,
+        "nombre": "Educación Cultural y Artística",
+        "imagen": "https://images.unsplash.com/photo-1615339725569-80172615f345?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Educación Cultural y Artística tiene como objetivo fomentar la apreciación y expresión artística de los estudiantes, explorando música, danza, teatro, artes visuales y literatura."
+    },
+    {
+        "materia_id": 20,
+        "nivel_id": 4,
+        "nombre": "Lengua y Literatura",
+        "imagen": "https://images.unsplash.com/photo-1532294220147-279399e4e00f?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Lengua y Literatura desarrolla habilidades de comprensión de textos, análisis de obras literarias de distintos géneros y épocas, y fomenta la reflexión crítica y la expresión creativa."
+    },
+    {
+        "materia_id": 21,
+        "nivel_id": 4,
+        "nombre": "Matemáticas superior",
+        "imagen": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238?q=80&w=1774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Matemáticas en el bachillerato tiene como objetivo desarrollar habilidades de razonamiento lógico y resolución de problemas. Se estudia álgebra, geometría, cálculo y estadística."
+    },
+    {
+        "materia_id": 22,
+        "nivel_id": 4,
+        "nombre": "Historia",
+        "imagen": "https://plus.unsplash.com/premium_photo-1661963996750-24c93354eecc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGlzdG9yaWF8ZW58MHx8MHx8fDA%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Historia ofrece una visión completa sobre el colonialismo durante la época del Imperio Español, abordando su impacto en las sociedades humanas y en el desarrollo de las naciones modernas."
+    },
+    {
+        "materia_id": 23,
+        "nivel_id": 4,
+        "nombre": "Filosofía",
+        "imagen": "https://images.unsplash.com/photo-1620662831351-9f68f76d0b9a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGZpbG9zb2YlQzMlQURhfGVufDB8fDB8fHww",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Filosofía en bachillerato invita a reflexionar sobre la existencia, ética, política y metafísica, promoviendo el pensamiento crítico y la argumentación racional."
+    },
+    {
+        "materia_id": 24,
+        "nivel_id": 4,
+        "nombre": "Emprendimiento",
+        "imagen": "https://images.unsplash.com/photo-1509443513700-bdc1caaf67e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGVtcHJlbmRpbWllbnRvfGVufDB8fDB8fHww",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Emprendimiento en bachillerato promueve el desarrollo de habilidades empresariales y de liderazgo, así como la comprensión del proceso emprendedor y la gestión de proyectos."
+    },
+    {
+        "materia_id": 25,
+        "nivel_id": 4,
+        "nombre": "Inglés",
+        "imagen": "https://images.unsplash.com/photo-1455540904194-fc101941273a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGluZ2wlQzMlQkFzeXxlbnwwfHwwfHx8MA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Inglés se centra en el desarrollo de habilidades comunicativas en el idioma inglés, incluyendo la comprensión auditiva, la expresión oral y escrita, así como la gramática y el vocabulario."
+    },
+    {
+        "materia_id": 26,
+        "nivel_id": 4,
+        "nombre": "Química",
+        "imagen": "https://images.unsplash.com/photo-1628863353691-0071c8c1874c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cXUlQzMlQURtaWNhfGVufDB8fDB8fHww",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Química introduce los principios y conceptos básicos de la química, como la estructura de la materia, reacciones químicas y sus aplicaciones cotidianas e industriales."
+    },
+    {
+        "materia_id": 27,
+        "nivel_id": 4,
+        "nombre": "Física",
+        "imagen": "https://images.unsplash.com/photo-1607988795691-3d0147b43231?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZWluc3RlaW58ZW58MHx8MHx8fDI%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Física estudia los fen�menos físicos y las leyes del universo, desde la mecánica clásica hasta la física cuántica y la relatividad, promoviendo la experimentación y la aplicación práctica."
+    },
+    {
+        "materia_id": 28,
+        "nivel_id": 4,
+        "nombre": "Biología",
+        "imagen": "https://images.unsplash.com/photo-1532153470116-e8c2088b8ac1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29udGFiaWxpZGFkfGVufDB8fDB8fHww",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Biología en bachillerato aborda los principios fundamentales de la vida, cubre genética, evolución, ecología y fisiología, explorando las interacciones entre los organismos y su entorno."
+    },
+    {
+        "materia_id": 29,
+        "nivel_id": 4,
+        "nombre": "Educación Física",
+        "imagen": "https://images.unsplash.com/photo-1540539234-c14a20fb7c7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29udGFiaWxpZGFkfGVufDB8fDB8fHww",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Educación Física en bachillerato promueve la actividad física, el deporte y el bienestar integral de los estudiantes. Se fomenta habilidades motoras, condición física y estilo de vida saludable."
+    },
+    {
+        "materia_id": 30,
+        "nivel_id": 4,
+        "nombre": "Educación Cultural y Artística",
+        "imagen": "https://plus.unsplash.com/premium_photo-1672287579431-7183aac64429?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YXJ0ZXxlbnwwfHwwfHx8MA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Educación Cultural y Artística en bachillerato explora expresiones artísticas como música, arte visual, teatro y danza, fomentando apreciación estética y creatividad."
+    },
+    {
+        "materia_id": 31,
+        "nivel_id": 4,
+        "nombre": "Contabilidad",
+        "imagen": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZWR1Y2FjaSVDMyVCM24lMjBmJUMzJUFEc2ljYXxlbnwwfHwwfHx8MA%3D%3D",
+        "fecha": "2023-05-21",
+        "autor": "admin",
+        "descripcion": "El curso de Contabilidad en bachillerato proporciona los conocimientos necesarios para comprender los principios contables y técnicas de registro, análisis y presentación de información financiera."
+    }
 ]
