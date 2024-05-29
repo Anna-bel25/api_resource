@@ -11,5 +11,31 @@
     "descripcion": "Pensado para quienes se inician en el estudio del lenguaje, este manual, que se ha convertido con el tiempo en un clásico, supone una introducción particularmente ágil a la lingüística…",
     "materia": "Lenguaje y Comunicación",
     "nivel": "Primaria"
+  },
+  {
+    "libro_id": 2,
+    "materia_id": 6,
+    "titulo": "Didáctica de las matemáticas",
+    "imagen_url": "https://books.google.com.ec/books/publisher/content?id=6EQbCgAAQBAJ&hl=es&pg=PA2&img=1&zoom=3&ots=JY_QbHEPKe&sig=ACfU3U2n8gqVYgBmmLYH-lm8GR2PVYybQg&w=1280",
+    "url": "https://books.google.com.ec/books?hl=es&lr=&id=6EQbCgAAQBAJ&oi=fnd&pg=PA3&dq=libros+de+matematicas&ots=JY_QbHEPKe&sig=KwScmdHDO5UlWAV07FvXY2W5kYc#v=onepage&q&f=false",
+    "autor": "Celia Parra",
+    "edicion": "Ministerio de Educación",
+    "fecha": "1994-01-01",
+    "descripcion": "Quizá sea la Matemática, considerada como ciencia exacta por antonomasia, la disciplina más dura para la inmensa mayoría del alumnado medio. Y quizá sea ésta la razón de que, …",
+    "nivel": "Primaria",
+    "materia": "Matemáticas Básicas"
+  },
+  {
+    "libro_id": 3,
+    "materia_id": 6,
+    "titulo": "Psicología del aprendizaje de las matemáticas",
+    "imagen_url": "https://books.google.com.ec/books/content?id=NuXPqTNXAYMC&hl=es&pg=PA1&img=1&zoom=3&sig=ACfU3U2Zu6X_3QEcPpuTdr7Eg0nkwrwotA&w=1280",
+    "url": "https://books.google.com.ec/books?hl=es&lr=&id=NuXPqTNXAYMC&oi=fnd&pg=PA13&dq=libros+de+matematicas&ots=pO-7ypyQDW&sig=S6Gkb9xJ700ZpbczPzc-MdxF6bY#v=onepage&q=libros%20de%20matematicas&f=false",
+    "autor": "Richard Skemp",
+    "edicion": "Ediciones Morata",
+    "fecha": "1993-01-01",
+    "descripcion": "… a la reunión internacional de la UNESCO sobre matemáticas escolares que se celebró en… de psicología y matemáticas. Ha escrito textos escolares de matemáticas y publicado varios …",
+    "nivel": "Primaria",
+    "materia": "Matemáticas Básicas"
   }
 ]
